@@ -1,3 +1,0 @@
-﻿  Hsh4_2.cpp
-Hsh4_2.obj : error LNK2005: main уже определен в Hsh.obj
-C:\Users\Eliza\source\repos\IRLap\Hash_4\x64\Debug\Hash_4.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
